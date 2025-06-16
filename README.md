@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitor Grisolia
 
-**`Desenvolvedora FullStack Jr Web`**
+**`Desenvolvedora FullStack Jr`**
 
 Me chamo Vitor Guimarães Grisolia, tenho 33 anos e sou natural do Pará. Atualmente,Formado Análise e Desenvolvimento de Sistemas pelo SENAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Vitor Grisolia](https://www.youtube.com/@Vitor_TI)".
 
